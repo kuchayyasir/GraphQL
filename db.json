@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id" : "56",
+            "firstName" : "Yasir",
+            "age" : 20,
+            "companyId":"1"
+        },
+        {
+           "id" : "57",
+           "firstName" : "Aamir",
+           "age" : 21,
+           "companyId":"2"
+       },
+       {
+        "id" : "58",
+        "firstName" : "Adnan",
+        "age" : 21,
+        "companyId":"2"
+    }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"Facebook",
+            "Description":"React GraphQL"
+        },
+        {
+            "id":"2",
+            "name":"Google",
+            "Description":"Angular FireBase"
+        }
+    ] 
+}
